@@ -114,4 +114,9 @@ I have created a list of 100+ excellent directories and platforms where you can 
 
 # About
 
-This list is created and maintained by Hridoy Rehman.
+This list is created and maintained by [Hridoy Rehman](https://x.com/hridoyreh).
+
+# Copyright
+You are welcome to read and use this for your personal or professional projects. However, please note that this content is my original work, and you may not redistribute, republish, or share it publicly without giving me full credit as the original creator. Sharing this resource without proper attribution is not allowed.
+
+Thank you for your attention to this matter.
