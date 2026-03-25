@@ -1,10 +1,8 @@
 # Places To Launch Startups
 
-I have created a list of 100+ excellent directories and platforms where you can easily launch your startup, SaaS product, or AI project. I have personally curated these resources so you can get maximum exposure, attract traffic, generate leads, and convert them into customers.
+I have created a list of 100+ excellent directories and platforms where you can easily launch your startup, SaaS product, AI project, whatever you call it. I have personally curated these resources so you can get maximum exposure, attract traffic, generate leads, and convert them into your customers easily.
 
-Whether you’re just starting out or looking to grow your existing product, these platforms will help you showcase your work, connect with the right audience, and stay ahead of the competition. I’ve included everything from popular launch sites and software directories to AI tool collections and startup communities, so you don’t have to waste time searching for them yourself.
-
-**100+ places to launch your startup:**
+## 100+ places to launch your startup:
 
 1. Product Hunt
 2. BetaList
@@ -113,3 +111,7 @@ Whether you’re just starting out or looking to grow your existing product, the
 105. Ctrlalt
 106. AI Hunter
 107. Public APIs
+
+# About
+
+This list is created and maintained by Hridoy Rehman.
