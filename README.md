@@ -1,4 +1,6 @@
-# launch-startups
+# Places To Launch Startups
+
+I have created a list of 100+ excellent directories or platforms where you can easily launch your startup, SaaS product, or AI project to get traffic, leads, and customers.
 
 100+ places to launch your startup:
 
