@@ -111,6 +111,7 @@ I have created a list of 100+ excellent directories and platforms where you can 
 105. Ctrlalt
 106. AI Hunter
 107. Public APIs
+108. [Public Prompts](https://www.publicprompts.art/) - AI tools directory; paid owner submissions US$19.99 once plus tax before editorial review.
 
 # About
 
