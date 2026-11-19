@@ -42,7 +42,7 @@ I have created a list of 100+ excellent directories and platforms where you can 
 36. StackSocial
 37. SaaS Mantra
 38. SaaS Warrior
-39. LTD Hunt
+39. Random SaaS
 40. KEN Moo
 41. Prime Club
 42. SaaSZilla
